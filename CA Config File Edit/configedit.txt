@@ -1,6 +1,3 @@
-
-
-; Note: April 21, 2025 - 12 missing translations
 Select File=Выберите файл
 Error reading file=Ошибка чтения файла
 No Backup File Found=Резервный файл не найден
