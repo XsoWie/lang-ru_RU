@@ -10,6 +10,6 @@ No file selected=Файл не выбран
 Backup File=Резервный файл
 Editing=Редактирование
 Generally, it is not recommended to change the format=Как правило, не рекомендуется изменять формат
-Credits=Авторы
+Credits=Благодарности
 No Backup File Found=Резервный файл не найден
 File Format=Формат файла
