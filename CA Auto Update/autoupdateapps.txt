@@ -1,6 +1,3 @@
-
-
-; Note: April 21, 2025 - 19 missing translations
 Docker Auto Update Settings=Настройки автообновления Docker
 Plugin Auto Update Settings=Настройки автообновления плагинов
 Autoupdate ON=Автообновление включено
